@@ -1,0 +1,2 @@
+"file21 "
+this is a sentence befor stashing the file into stash box 2 .   
